@@ -1,2 +1,2 @@
 # ProjetoInovat
-Projeto x
+sistema de barbearia
